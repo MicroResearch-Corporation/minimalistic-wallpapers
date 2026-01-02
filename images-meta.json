@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-01-02T08:36:18.934Z",
-  "total": 337,
+  "generated_at": "2026-01-02T10:44:55.517Z",
+  "total": 341,
   "duplicates": 0,
   "images": [
     {
@@ -20,6 +20,24 @@
       "dates": {
         "added": "2021-09-09",
         "updated": "2022-10-07"
+      }
+    },
+    {
+      "id": "b0f8cc81d92d",
+      "name": "Night-city-landscape-with-a-large-planet-on-the-horizon.jpg",
+      "src": "images/Night-city-landscape-with-a-large-planet-on-the-horizon.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 64.88,
+      "hash": "b0f8cc81d92d6b90da435140be8f262c61a9c5b788ea796071fbde44cfc48833",
+      "dates": {
+        "added": "2026-01-02",
+        "updated": "2026-01-02"
       }
     },
     {
@@ -56,6 +74,60 @@
       "dates": {
         "added": "2023-04-26",
         "updated": "2023-04-26"
+      }
+    },
+    {
+      "id": "133d94622310",
+      "name": "Planet-space-nature-night-landscape-sand-star-galaxy-astronom.jpg",
+      "src": "images/Planet-space-nature-night-landscape-sand-star-galaxy-astronom.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 681.62,
+      "hash": "133d9462231095e01b03c784ec7cd5f836549b834c5c9c463e119fe20949f65c",
+      "dates": {
+        "added": "2026-01-02",
+        "updated": "2026-01-02"
+      }
+    },
+    {
+      "id": "57198d857ab7",
+      "name": "Space-background-with-planet-landscape-and-stars.jpg",
+      "src": "images/Space-background-with-planet-landscape-and-stars.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 136.79,
+      "hash": "57198d857ab78dd85551e811622c448bef5add486a1d16b09f274027693be317",
+      "dates": {
+        "added": "2026-01-02",
+        "updated": "2026-01-02"
+      }
+    },
+    {
+      "id": "1259a30d2d62",
+      "name": "Tranquil-sunset-over-snowy-mountain-landscape-reflection.jpg",
+      "src": "images/Tranquil-sunset-over-snowy-mountain-landscape-reflection.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 189.88,
+      "hash": "1259a30d2d622c99c90d198dd2fe0a03d1ae780f0c59b2a8c3afda1817b820cd",
+      "dates": {
+        "added": "2026-01-02",
+        "updated": "2026-01-02"
       }
     },
     {
