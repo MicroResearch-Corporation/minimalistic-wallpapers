@@ -1,9 +1,27 @@
 {
   "version": 1,
-  "generated_at": "2026-01-03T13:11:01.641Z",
-  "total": 372,
+  "generated_at": "2026-01-03T13:34:03.752Z",
+  "total": 415,
   "duplicates": 0,
   "images": [
+    {
+      "id": "7b58699ccbce",
+      "name": "Blue-mountain-landscape-background-illustration.jpg",
+      "src": "images/Blue-mountain-landscape-background-illustration.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 45.83,
+      "hash": "7b58699ccbce69ad7766a6392afee206aafc2d878874b5e55e83d41c9b6d114d",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
     {
       "id": "afc532d795c4",
       "name": "Electronic_Sample_96-calm-night.png",
@@ -113,6 +131,24 @@
       }
     },
     {
+      "id": "d3dd30d84226",
+      "name": "Sunset-lake-landscape-illustration.jpg",
+      "src": "images/Sunset-lake-landscape-illustration.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 230.15,
+      "hash": "d3dd30d84226592ddb2c87ffbe6947c46b7902dabbcce9c0acc60239a6f6aaeb",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "1259a30d2d62",
       "name": "Tranquil-sunset-over-snowy-mountain-landscape-reflection.jpg",
       "src": "images/Tranquil-sunset-over-snowy-mountain-landscape-reflection.jpg",
@@ -182,6 +218,24 @@
       "dates": {
         "added": "2022-02-11",
         "updated": "2022-03-01"
+      }
+    },
+    {
+      "id": "97a3df5c3477",
+      "name": "africa-nature-landscape-flat-illustration-vector.jpg",
+      "src": "images/africa-nature-landscape-flat-illustration-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 88.25,
+      "hash": "97a3df5c34773c69cbe2a399ef72b5b3db8df75685346c60ba21a9ae985e33ac",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
       }
     },
     {
@@ -851,6 +905,24 @@
       }
     },
     {
+      "id": "8eb7caddda14",
+      "name": "alien-planet-deserted-landscape-vector.jpg",
+      "src": "images/alien-planet-deserted-landscape-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 109.12,
+      "hash": "8eb7caddda14e20afe905763758da850f3d9d27402c18d2374fc12c01f4448a6",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "8c85cb4e7fd1",
       "name": "altos-odyssey-balloon-over-blue-mountains.jpg",
       "src": "images/altos-odyssey-balloon-over-blue-mountains.jpg",
@@ -1157,6 +1229,60 @@
       }
     },
     {
+      "id": "7ad101b761e6",
+      "name": "beautiful-seasonal-nature-mountain-landscape-illustration.jpg",
+      "src": "images/beautiful-seasonal-nature-mountain-landscape-illustration.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 188.15,
+      "hash": "7ad101b761e6e8d669cff307c1c92b0f6a780226b2f3050fbf32262255db6e46",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "e82b58259e9a",
+      "name": "beautiful-sunrise-in-the-winter-season-of-myanmar-photo.jpg",
+      "src": "images/beautiful-sunrise-in-the-winter-season-of-myanmar-photo.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 271.95,
+      "hash": "e82b58259e9aa0e61eb7da26f8e786ac483246be6148ccb23c6d28e18ef41ca8",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "e8eb0706f0a0",
+      "name": "beautiful-winter-landscape-in-the-mountains-flat-illustration-nature-background-vector.jpg",
+      "src": "images/beautiful-winter-landscape-in-the-mountains-flat-illustration-nature-background-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 76.94,
+      "hash": "e8eb0706f0a0e05c304fb54801299bce540d6c247712a81f861e68989a99d2ed",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "88dd4e665f85",
       "name": "bisbiswas-a-summer-evening.png",
       "src": "images/bisbiswas-a-summer-evening.png",
@@ -1427,6 +1553,60 @@
       }
     },
     {
+      "id": "c2373f09a818",
+      "name": "city-view-landscape-view-design-illustration.jpg",
+      "src": "images/city-view-landscape-view-design-illustration.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 88.02,
+      "hash": "c2373f09a818266bccffa3faf62c7203dbb621843d81bf1b2aae3ab20bc64155",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "937cfb498825",
+      "name": "cityscape-landscape-with-skyscraper-and-road-illustration-vector.jpg",
+      "src": "images/cityscape-landscape-with-skyscraper-and-road-illustration-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 191.75,
+      "hash": "937cfb498825163792e2e57c8d7f10bd0b4dee980ff5d3668c406e46065c83b1",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "6803c6c4a1a7",
+      "name": "cityscape-landscape-with-skyscraper-and-road-illustration.jpg",
+      "src": "images/cityscape-landscape-with-skyscraper-and-road-illustration.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 189.43,
+      "hash": "6803c6c4a1a7c89fb14fa7324012e96c5279317861add47277e6e0ecaa466896",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "868bed1a1305",
       "name": "colormate-monogatari.jpg",
       "src": "images/colormate-monogatari.jpg",
@@ -1514,6 +1694,24 @@
       "dates": {
         "added": "2022-05-30",
         "updated": "2022-10-28"
+      }
+    },
+    {
+      "id": "7a75c211f0ef",
+      "name": "dark-trees-pine-in-mist-design-mystery-gnature-beauty-tourism.jpg",
+      "src": "images/dark-trees-pine-in-mist-design-mystery-gnature-beauty-tourism.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 62.54,
+      "hash": "7a75c211f0efebb84bedb58add8aa324e66983e67a3ab75b17bc1d8224b1db89",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
       }
     },
     {
@@ -1607,6 +1805,42 @@
       }
     },
     {
+      "id": "6122f2ec95a4",
+      "name": "desert-hill-road-landscape-background.jpg",
+      "src": "images/desert-hill-road-landscape-background.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 154.09,
+      "hash": "6122f2ec95a4d57cb732e9f4c4007c0dedee72069202b8b6c4c545add438d830",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "0a6fd9f47c73",
+      "name": "desert-landscape-flat-illustration-vector.jpg",
+      "src": "images/desert-landscape-flat-illustration-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 71.37,
+      "hash": "0a6fd9f47c73f76cde89649b07fd249339744022c15e9697b69c7abe5a3e7b43",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "f936cffbed91",
       "name": "dpcdpc11-exodus.png",
       "src": "images/dpcdpc11-exodus.png",
@@ -1658,6 +1892,24 @@
       "dates": {
         "added": "2023-04-26",
         "updated": "2023-04-26"
+      }
+    },
+    {
+      "id": "fa09db33f322",
+      "name": "dramatic-sunset-wildlife-landscape-illustration.jpg",
+      "src": "images/dramatic-sunset-wildlife-landscape-illustration.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 268.96,
+      "hash": "fa09db33f322e7a68e73924763e2cdfc268b041731aaee0e0cc68f91af98ccd1",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
       }
     },
     {
@@ -1895,6 +2147,42 @@
       }
     },
     {
+      "id": "24f7a48f5468",
+      "name": "flower-and-mountain-landscape-background.jpg",
+      "src": "images/flower-and-mountain-landscape-background.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 231.16,
+      "hash": "24f7a48f546821109e01af65c3e6666c0a9c847787271f909195fbf643f8d907",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "3c78801c384b",
+      "name": "fog-forest-spruce-fir-and-morning-sunlight-autumn-season.jpg",
+      "src": "images/fog-forest-spruce-fir-and-morning-sunlight-autumn-season.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 93.19,
+      "hash": "3c78801c384b71f83a3a326ce275d91fb7fb80ccc240fd85aed0a34739c55c12",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "3f2245797609",
       "name": "forangeillustrations-ashenvale.png",
       "src": "images/forangeillustrations-ashenvale.png",
@@ -2036,6 +2324,24 @@
       "dates": {
         "added": "2022-12-29",
         "updated": "2022-12-29"
+      }
+    },
+    {
+      "id": "089ae533f3bf",
+      "name": "green-landscape-background-free-vector.jpg",
+      "src": "images/green-landscape-background-free-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 153.85,
+      "hash": "089ae533f3bf59e6ea881637950aafd85633037196284c6d97d6fded5b7a2633",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
       }
     },
     {
@@ -2957,6 +3263,24 @@
       }
     },
     {
+      "id": "2fb5312bc948",
+      "name": "landscape-with-swamp-in-night-forest-vector.jpg",
+      "src": "images/landscape-with-swamp-in-night-forest-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 159.71,
+      "hash": "2fb5312bc948cf17d808120427042b718ee9625a7a2942f685500d0c35568adf",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "3ee93bf1bcf2",
       "name": "lee_zudarts-study.jpg",
       "src": "images/lee_zudarts-study.jpg",
@@ -3044,6 +3368,24 @@
       "dates": {
         "added": "2022-01-07",
         "updated": "2022-10-28"
+      }
+    },
+    {
+      "id": "32bf2e7dc193",
+      "name": "mars-landscape-alien-planet-martian-background-vector.jpg",
+      "src": "images/mars-landscape-alien-planet-martian-background-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 134.1,
+      "hash": "32bf2e7dc193305a6762df3183e024b92f02a452eaaa200b2ced12efcc8d6a5e",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
       }
     },
     {
@@ -3299,6 +3641,150 @@
       }
     },
     {
+      "id": "c35868e213a3",
+      "name": "moon-nature-landscape-background-design-illustration-vector.jpg",
+      "src": "images/moon-nature-landscape-background-design-illustration-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 87.49,
+      "hash": "c35868e213a38967480ff0a77d4dba455449f1476c6a999efcd50f8e895a4dcf",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "0f99b9dfed36",
+      "name": "mountain-beautiful-landscape-background-design-illustration-vector.jpg",
+      "src": "images/mountain-beautiful-landscape-background-design-illustration-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 92.57,
+      "hash": "0f99b9dfed364442cb2a2d7408ab21f5076d7d0b8b8b863cb3bda15e922a7645",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "cc0dabb13855",
+      "name": "mountain-beautiful-landscape-background-design-illustration.jpg",
+      "src": "images/mountain-beautiful-landscape-background-design-illustration.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 61.94,
+      "hash": "cc0dabb1385588a655064741ddc68c8934b8c378177f08d23a82dce46ff25c84",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "81dc5941bf7a",
+      "name": "mountain-calm-lake-valley-cartoon-illustration-summer-season-alpine-wild-natu.jpg",
+      "src": "images/mountain-calm-lake-valley-cartoon-illustration-summer-season-alpine-wild-natu.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 193.01,
+      "hash": "81dc5941bf7a3aa8163637f53a6d4dfe98f7913d4a96e5673ce5816b47ae5f71",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "9d08d9bddd59",
+      "name": "mountain-in-mist-and-cloud-foggy-landscape-in-the-mountains.jpg",
+      "src": "images/mountain-in-mist-and-cloud-foggy-landscape-in-the-mountains.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 119.37,
+      "hash": "9d08d9bddd597b3b3379c51e39bc9a4d92d8e0f96ae28721253c3dc5501fe662",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "245728401dab",
+      "name": "mountain-landscape-with-deer-and-forest-at-morning-vector.jpg",
+      "src": "images/mountain-landscape-with-deer-and-forest-at-morning-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 92.06,
+      "hash": "245728401dab9ff3c3118a747f37895b3c671ca007e6a8ae9cd6aea2273facf0",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "5570dcdb9bd2",
+      "name": "mountain-landscape-with-deer-and-forest-at-night.jpg",
+      "src": "images/mountain-landscape-with-deer-and-forest-at-night.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 132.33,
+      "hash": "5570dcdb9bd2127f5a1e1fa5e93080c12a40bb1a1cc8a3e3f705fd8e5a3cc996",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "aa20397fded3",
+      "name": "mountain-landscape-with-deer-and-forest-at-sunset-vector.jpg",
+      "src": "images/mountain-landscape-with-deer-and-forest-at-sunset-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 118.14,
+      "hash": "aa20397fded3009435b37a7cef1ed2be55dbd95fd0132aac044e5be98e3653f1",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "6028452e91d7",
       "name": "mrwhoseboss-dalle2-edit-alone-but-awesome.jpg",
       "src": "images/mrwhoseboss-dalle2-edit-alone-but-awesome.jpg",
@@ -3407,6 +3893,60 @@
       }
     },
     {
+      "id": "9f79757beac5",
+      "name": "mysterious-winter-night-glowing-milky-way.jpg",
+      "src": "images/mysterious-winter-night-glowing-milky-way.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 227.01,
+      "hash": "9f79757beac510fca9bc27416aec95824b46cc739707d6e36eedd8f68baa55d4",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "84c1b6cff5f3",
+      "name": "natural-landscape-mountain-art-sun-set-vector.jpg",
+      "src": "images/natural-landscape-mountain-art-sun-set-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 226.43,
+      "hash": "84c1b6cff5f333b81d1706ab60c1e2b3ec41c77e7330964b8e6ed43cc3562708",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "05ccad2250fd",
+      "name": "nature-scene-landscape-with-sunlight-vector.jpg",
+      "src": "images/nature-scene-landscape-with-sunlight-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 128.56,
+      "hash": "05ccad2250fde8a9dfc93896948f4c8e19ce4be42dde819a2754fc9b43d6763f",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "593fe9caf537",
       "name": "ncoll36-forest-mountain.jpg",
       "src": "images/ncoll36-forest-mountain.jpg",
@@ -3476,6 +4016,24 @@
       "dates": {
         "added": "2023-04-26",
         "updated": "2023-04-26"
+      }
+    },
+    {
+      "id": "dfed4217a61a",
+      "name": "night-road-tropical-city-landscape-vector.jpg",
+      "src": "images/night-road-tropical-city-landscape-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 141.75,
+      "hash": "dfed4217a61a8228efc1ee5b6af858657b76271a0a12ef19d34f178a82f2a3ab",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
       }
     },
     {
@@ -4703,6 +5261,42 @@
       }
     },
     {
+      "id": "7a1c65facaee",
+      "name": "silhouette-forest-landscape-flat-design-with-gradient-illustration-background-vector.jpg",
+      "src": "images/silhouette-forest-landscape-flat-design-with-gradient-illustration-background-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 120.48,
+      "hash": "7a1c65facaee4f6af51b1f6bf0423fc3a8f4b05ea947a68ee1da36a8c38570b1",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "c5496dfbc3c7",
+      "name": "silhouette-of-nature-landscape-mountains-forest-in-background-blue-and-green-illustration.jpg",
+      "src": "images/silhouette-of-nature-landscape-mountains-forest-in-background-blue-and-green-illustration.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 158.45,
+      "hash": "c5496dfbc3c72ade17e269ef8c0c684b7bf8473915bffd2123e2c4c8c455ead6",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "0a7563cbfc1b",
       "name": "skavrx-mountain.png",
       "src": "images/skavrx-mountain.png",
@@ -5279,6 +5873,24 @@
       }
     },
     {
+      "id": "6fdf79684fe5",
+      "name": "space-background-with-planet-landscape-and-stars.jpg",
+      "src": "images/space-background-with-planet-landscape-and-stars.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 168.07,
+      "hash": "6fdf79684fe54c3d7bf824f9b32198df3014bb895e354fb9ab7dae9dd90ca6a8",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "df5f8b4ff5a0",
       "name": "stable-diffusion-wavymulder-cyberpunk-sunset.png",
       "src": "images/stable-diffusion-wavymulder-cyberpunk-sunset.png",
@@ -5297,6 +5909,24 @@
       }
     },
     {
+      "id": "1676ac76bcd8",
+      "name": "stars-starry-night-sky-background-dark-blue-sky-with-shinning-stars.jpg",
+      "src": "images/stars-starry-night-sky-background-dark-blue-sky-with-shinning-stars.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 67.5,
+      "hash": "1676ac76bcd8c9561748f8fdcedb9902320a1edebb9da23b817fd37c78a50b45",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
       "id": "bd2f58654497",
       "name": "strigonian-far-north.png",
       "src": "images/strigonian-far-north.png",
@@ -5312,6 +5942,114 @@
       "dates": {
         "added": "2022-05-30",
         "updated": "2022-10-07"
+      }
+    },
+    {
+      "id": "bee6ffb8f683",
+      "name": "summer-field-landscape-illustration-ai-generative-photo.jpg",
+      "src": "images/summer-field-landscape-illustration-ai-generative-photo.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 892.38,
+      "hash": "bee6ffb8f683139087da67be6b436508a672704fdc95365ad07b9210cf56c071",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "b4b8c1ca3e04",
+      "name": "summer-landscape-in-the-mountain-flat-illustration-vector.jpg",
+      "src": "images/summer-landscape-in-the-mountain-flat-illustration-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 73.11,
+      "hash": "b4b8c1ca3e047ac7ef76126f2e7218169aac01e56732a08a022932763e0fc9bc",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "ce2b8461c93a",
+      "name": "summer-landscape-with-trees-pond-and-beehive-vector.jpg",
+      "src": "images/summer-landscape-with-trees-pond-and-beehive-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 127.52,
+      "hash": "ce2b8461c93a3cb6ebf29258a02c33932e97c1310cc97c75df4896a1052613d0",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "72166a3fef60",
+      "name": "sunrise-over-tranquil-waters-nature-idyllic-beauty-photo.jpg",
+      "src": "images/sunrise-over-tranquil-waters-nature-idyllic-beauty-photo.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 811.17,
+      "hash": "72166a3fef605f465a2a875602c3c1791338102637198a506e64cad5441ba0bb",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "1e0ada6ca35c",
+      "name": "sunset-landscape-with-lake-and-trees.jpg",
+      "src": "images/sunset-landscape-with-lake-and-trees.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 94.66,
+      "hash": "1e0ada6ca35c64407e859402ed9fc87416e4b03a7ce2fe67748b7151b6b79191",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "c19987522a36",
+      "name": "sunset-waterfall-landscape-illustration.jpg",
+      "src": "images/sunset-waterfall-landscape-illustration.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 341.59,
+      "hash": "c19987522a3625740c0951d0e11c86dfbe33c6dccf5b9ec557dfc50c40e3dfb9",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
       }
     },
     {
@@ -5618,6 +6356,24 @@
       "dates": {
         "added": "2023-03-28",
         "updated": "2023-03-28"
+      }
+    },
+    {
+      "id": "639835e5914d",
+      "name": "twilight-canyon-landscape-illustration-vector.jpg",
+      "src": "images/twilight-canyon-landscape-illustration-vector.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 171.22,
+      "hash": "639835e5914dddda21b7d233212ae26497a7c2c1d073b28301469264b021e753",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
       }
     },
     {
@@ -6554,6 +7310,24 @@
       "dates": {
         "added": "2022-05-30",
         "updated": "2022-10-07"
+      }
+    },
+    {
+      "id": "1c6ac81dc882",
+      "name": "wildlife-elk-in-forest-nature-landscape-illustration.jpg",
+      "src": "images/wildlife-elk-in-forest-nature-landscape-illustration.jpg",
+      "folder": "root",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 219.19,
+      "hash": "1c6ac81dc8828fb441714cf8495181ae6c67cf5ef2efc1ae4b8df9f5760f1a16",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
       }
     },
     {
