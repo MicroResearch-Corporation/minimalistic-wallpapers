@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-01-03T12:59:35.602Z",
-  "total": 341,
+  "generated_at": "2026-01-03T13:11:01.641Z",
+  "total": 372,
   "duplicates": 0,
   "images": [
     {
@@ -4718,6 +4718,564 @@
       "dates": {
         "added": "2021-03-26",
         "updated": "2022-10-07"
+      }
+    },
+    {
+      "id": "abd5571448ff",
+      "name": "astronaut-orbits-dark-sky-moon-surface-glowing.jpg",
+      "src": "images/space/astronaut-orbits-dark-sky-moon-surface-glowing.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 887.13,
+      "hash": "abd5571448ff51ef78d42f2c9e301d20068e6404c377243ce7f06c7672f51493",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "6ca275126cdd",
+      "name": "dark-nebula-glowing-sphere-orbits-starry-milky-way.jpg",
+      "src": "images/space/dark-nebula-glowing-sphere-orbits-starry-milky-way.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 726.46,
+      "hash": "6ca275126cdd54687b361a6fd30534893c8549d4b91537fcb193ee0295c59678",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "35ec859a2ec5",
+      "name": "deep-space-adventure-glowing-star-trail-illuminates-landscape.jpg",
+      "src": "images/space/deep-space-adventure-glowing-star-trail-illuminates-landscape.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 1194.58,
+      "hash": "35ec859a2ec583445748852e4f0d19d487c30ecc1da73ce88848d6aa50537e7b",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "01ee253c8822",
+      "name": "desert-and-starry-night-illustration.jpg",
+      "src": "images/space/desert-and-starry-night-illustration.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 449.31,
+      "hash": "01ee253c8822c096ef3c56360b65971128714292b7ef7922412402bfdd908d9f",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "1d3b717a0760",
+      "name": "galaxy-planet-space-astronomy-science-.jpg",
+      "src": "images/space/galaxy-planet-space-astronomy-science-.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 742.9,
+      "hash": "1d3b717a076062bb742629cc5e9173ee483ced2076f5dd7f1534043c181d8289",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "2aa3ce2b9281",
+      "name": "glowing-blue-sphere-orbits-in-star-field.jpg",
+      "src": "images/space/glowing-blue-sphere-orbits-in-star-field.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 356.18,
+      "hash": "2aa3ce2b92818d69cc4d594774473a3f6925c95baad97212c9e1a35f5a89f6f1",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "cd0546375d18",
+      "name": "glowing-satellite-orbits-planet-in-star-filled-galaxy.jpg",
+      "src": "images/space/glowing-satellite-orbits-planet-in-star-filled-galaxy.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 735.83,
+      "hash": "cd0546375d18ef77c3533655c482ae071ff684378a1bebbe477e467e43084145",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "78a1a5d195fc",
+      "name": "glowing-sphere-orbiting-planet-earth-in-the-dark-stratosphere.jpg",
+      "src": "images/space/glowing-sphere-orbiting-planet-earth-in-the-dark-stratosphere.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 236.3,
+      "hash": "78a1a5d195fcbb6dd0b1cb49c83cda2899bf427082e0c1828cbf463b0b38b90b",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "00943b2f9f0d",
+      "name": "glowing-sphere-orbits-galaxy-in-the-starry-night.jpg",
+      "src": "images/space/glowing-sphere-orbits-galaxy-in-the-starry-night.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 457.12,
+      "hash": "00943b2f9f0db0b81f084b93435cce2d71f1ac4b3b9e64ac5ad29c540d9b221d",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "30d46b9be1d6",
+      "name": "glowing-star-field-illuminates-dark-night-sky.jpg",
+      "src": "images/space/glowing-star-field-illuminates-dark-night-sky.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 843.38,
+      "hash": "30d46b9be1d65657796801d17af29ba0e97a4d87aa9a7fff1160c80381dbcb7c",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "dcdf27752f9d",
+      "name": "glowing-star-field-illuminates-dark-space-sphere.jpg",
+      "src": "images/space/glowing-star-field-illuminates-dark-space-sphere.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 511.36,
+      "hash": "dcdf27752f9dd3c861aedc6e91714b19187bbb9702dc1e8427064b0db1d63004",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "028269fecaa5",
+      "name": "glowing-star-field-illuminates-the-vast-galaxy.jpg",
+      "src": "images/space/glowing-star-field-illuminates-the-vast-galaxy.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 396.18,
+      "hash": "028269fecaa5d61009b105840f0215220bff236cfc162d1e71af8703e2b5cb8b",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "2998123bc958",
+      "name": "glowing-star-sphere-orbiting-dark-planet-atmosphere.jpg",
+      "src": "images/space/glowing-star-sphere-orbiting-dark-planet-atmosphere.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 318.81,
+      "hash": "2998123bc9583f4a2b0ad968cc40154cd788ee08c866b6a9e186ec83159461d9",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "7ca154bb9048",
+      "name": "glowing-star-trail-in-the-milky-wayt.jpg",
+      "src": "images/space/glowing-star-trail-in-the-milky-wayt.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 1027.1,
+      "hash": "7ca154bb9048ace8fb2389594c46fc20136598044c47c78994700860e271faee",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "0f8b92ea3cf2",
+      "name": "majestic-mountain-peak-sunset-sky-galaxy-beauty.jpg",
+      "src": "images/space/majestic-mountain-peak-sunset-sky-galaxy-beauty.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 642.88,
+      "hash": "0f8b92ea3cf29218caf367d8df993474b44e3fad3c99302d613869eef5235cbd",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "785d199d8f86",
+      "name": "majestic-mountain-range-at-dusk-tranquil-scene-in-arid-climat.jpg",
+      "src": "images/space/majestic-mountain-range-at-dusk-tranquil-scene-in-arid-climat.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 1031.41,
+      "hash": "785d199d8f86d61a984a57ef95b28e84ebb5f586d45bb368a89ae4503ad188f8",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "bd71245b9e43",
+      "name": "majestic-mountain-range-sunset-sky-nature-beauty.jpg",
+      "src": "images/space/majestic-mountain-range-sunset-sky-nature-beauty.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 761.88,
+      "hash": "bd71245b9e4357a1e6263de1c98763cd6baddaed8d9ea4cc63bf5326e025e3af",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "68577749a738",
+      "name": "majestic-mountain-range-tranquil-scene-moonlight-beauty.jpg",
+      "src": "images/space/majestic-mountain-range-tranquil-scene-moonlight-beauty.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 838.77,
+      "hash": "68577749a7384d615b7a054cfb5683ff8f77da6daabc684ded3d45ded3db755b",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "0d578cac498e",
+      "name": "milky-way-galaxy-illuminates-majestic-mountain-range-in-starr.jpg",
+      "src": "images/space/milky-way-galaxy-illuminates-majestic-mountain-range-in-starr.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 289.73,
+      "hash": "0d578cac498e1f5127cfc3466e1eb116362d62d295fcce8fc374584572c64610",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "128f56274064",
+      "name": "milky-way-scene-in-snowscapephoto.jpg",
+      "src": "images/space/milky-way-scene-in-snowscapephoto.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 796.73,
+      "hash": "128f56274064f1460f34c5a3787ba9246d31807aed1c39976d6b755d5c3f609b",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "8427a31ef03c",
+      "name": "nature-galaxy-twinkles-in-starry-night.jpg",
+      "src": "images/space/nature-galaxy-twinkles-in-starry-night.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 808.48,
+      "hash": "8427a31ef03c135b5c6086e5e4bb82c8bf56bde6daa6ecef60c005568a748974",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "65ea2ddfc4c5",
+      "name": "night-sky-galaxy-planet-star-nebula-milky-way.jpg",
+      "src": "images/space/night-sky-galaxy-planet-star-nebula-milky-way.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 731.95,
+      "hash": "65ea2ddfc4c5f02fe732644afead4b2b72bf4262f40d5257c860492d8922ad20",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "3b301d4e4cab",
+      "name": "orbiting-sphere-glows-in-star-filled-galaxy-background.jpg",
+      "src": "images/space/orbiting-sphere-glows-in-star-filled-galaxy-background.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 301.97,
+      "hash": "3b301d4e4cabade7b570a1f94d9ca4152d0aab3c2e8cf720390e6ffab2017419",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "4f808355bbe2",
+      "name": "sand-dune-landscape-at-night-milky-way-in-blue-space.jpg",
+      "src": "images/space/sand-dune-landscape-at-night-milky-way-in-blue-space.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 450.5,
+      "hash": "4f808355bbe2a6bb3a868715588ee40b256b7e8197f0933f2d9c07c1ce0c7009",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "b231bc99f443",
+      "name": "silhouette-of-tree-against-star-field-in-majestic-landscape.jpg",
+      "src": "images/space/silhouette-of-tree-against-star-field-in-majestic-landscape.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 497.75,
+      "hash": "b231bc99f443a9661f32be47bf0c27711232068b60281e0c18a2ee2cac4a23a2",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "cb1bdf35919f",
+      "name": "snowy-mountain-peak-under-starry-galaxy-majesty.jpg",
+      "src": "images/space/snowy-mountain-peak-under-starry-galaxy-majesty.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 785.25,
+      "hash": "cb1bdf35919f9d7babce6f95ae3c082cf03233dee587e50bbe1f02a8c9bef9ca",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "c21172d4686b",
+      "name": "spaceship-orbits-glowing-sphere-in-star-field-of-outer-space.jpg",
+      "src": "images/space/spaceship-orbits-glowing-sphere-in-star-field-of-outer-space.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 577.04,
+      "hash": "c21172d4686bc7dda7d4855dea73baccd6059dca019dfbba24f25728a64f214e",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "479466c054fc",
+      "name": "star-trail-illuminates-milky-way-in-majestic-landscape.jpg",
+      "src": "images/space/star-trail-illuminates-milky-way-in-majestic-landscape.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 1229.74,
+      "hash": "479466c054fce624c40aa09ca8281f18f22e62eada65ed1d8b547ffe988ac2bb",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "d1362b8689a6",
+      "name": "tranquil-scene-of-a-majestic-mountain-range-reflection.jpg",
+      "src": "images/space/tranquil-scene-of-a-majestic-mountain-range-reflection.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 960.97,
+      "hash": "d1362b8689a6ce9df310dca361ab0e73fe7b3966b2618393d8a93bfcf47bbc7d",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "3e30988915d8",
+      "name": "tranquil-scene-of-a-majestic-mountain-range.jpg",
+      "src": "images/space/tranquil-scene-of-a-majestic-mountain-range.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 631.24,
+      "hash": "3e30988915d8b8e7a8284949a57f5da5536cafae193685fc13589151400aa95b",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
+      }
+    },
+    {
+      "id": "0b88a8245049",
+      "name": "tranquil-sunset-over-arid-mountains-dusty-footpath.jpg",
+      "src": "images/space/tranquil-sunset-over-arid-mountains-dusty-footpath.jpg",
+      "folder": "space",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 408.12,
+      "hash": "0b88a8245049d752827f743278755106aa3f0db56d8ee2f167f9e5643d3d9676",
+      "dates": {
+        "added": "2026-01-03",
+        "updated": "2026-01-03"
       }
     },
     {
