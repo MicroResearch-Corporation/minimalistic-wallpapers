@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-01-13T14:38:44.873Z",
-  "total": 431,
+  "generated_at": "2026-01-13T14:51:57.785Z",
+  "total": 481,
   "duplicates": 0,
   "images": [
     {
@@ -182,6 +182,906 @@
       "dates": {
         "added": "2026-01-02",
         "updated": "2026-01-02"
+      }
+    },
+    {
+      "id": "beb2417ae487",
+      "name": "Unsplash MiniMalistc Collection (01).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (01).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 86.93,
+      "hash": "beb2417ae4878bc631e2a5a8b338f15c30d9f1aa1c720768c5ba568f2213302d",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "198436d82e3e",
+      "name": "Unsplash MiniMalistc Collection (02).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (02).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 104.08,
+      "hash": "198436d82e3ea6b798978143883394f6032ee00fff001a85c9f8488f8359c75d",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "11d58fdbaa66",
+      "name": "Unsplash MiniMalistc Collection (03).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (03).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 1350.2,
+      "hash": "11d58fdbaa660b82a2d5ed60eb403df929b22fb5e410a6bd62e0d4fa6c7e5067",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "1f9524dcc1d5",
+      "name": "Unsplash MiniMalistc Collection (04).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (04).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 116.51,
+      "hash": "1f9524dcc1d57899ae43fbc81d8911b12354593540868b13c2860aab9f489974",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "0b6f5107d624",
+      "name": "Unsplash MiniMalistc Collection (05).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (05).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 512.75,
+      "hash": "0b6f5107d6249bc70836f3376da80213ed98049f025a1cf8fb4eea5d2754cdca",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "4d2592a8dd7d",
+      "name": "Unsplash MiniMalistc Collection (06).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (06).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 552.22,
+      "hash": "4d2592a8dd7d1083da6b6945768c3d31d8646220bdf1cc5ece153377fa6441c6",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "bda594b7eaa6",
+      "name": "Unsplash MiniMalistc Collection (07).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (07).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 348.49,
+      "hash": "bda594b7eaa66c3a623e427115cf858ce7850e26ae58f0968e7e7a498ff7795d",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "1f082cc25633",
+      "name": "Unsplash MiniMalistc Collection (08).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (08).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 300.37,
+      "hash": "1f082cc2563340db447aab12a1adbb8661630dc7187466ac14bccbefa8ada630",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "39977296e384",
+      "name": "Unsplash MiniMalistc Collection (09).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (09).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 796.16,
+      "hash": "39977296e38424c9a159b3defdc6e71858251777a5bd1e731d8f1af5f09824c9",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "cf00e2bdc5bb",
+      "name": "Unsplash MiniMalistc Collection (10).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (10).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 172.66,
+      "hash": "cf00e2bdc5bbcb2902140814ddeff8c0e068deab84660088c3118b7d01560d66",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "342210158085",
+      "name": "Unsplash MiniMalistc Collection (11).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (11).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 170.07,
+      "hash": "34221015808557e597ac6a149b2dfb0d5d9eb2d9d317ec359dc994bf773fcd36",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "c07a77644ac0",
+      "name": "Unsplash MiniMalistc Collection (12).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (12).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 306.56,
+      "hash": "c07a77644ac0d47403a8ffeaf1eed8944c16496981ff35ef48762e3cd7379a78",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "ea33b757c1b5",
+      "name": "Unsplash MiniMalistc Collection (13).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (13).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 577.15,
+      "hash": "ea33b757c1b5727dbc078f62a05fba37c7ed32d6d583573c0e4f4c4158b9a7d1",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "7d3b743937a4",
+      "name": "Unsplash MiniMalistc Collection (14).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (14).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 85.46,
+      "hash": "7d3b743937a46cbda5b23c76be9c8cff561e37527c842ef362fca04bab54183d",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "82caa0599d94",
+      "name": "Unsplash MiniMalistc Collection (15).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (15).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 92.89,
+      "hash": "82caa0599d949bc13fce3e704d0fb76eee14c3cbb623fb9309aa7aac6c1e69de",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "8f98fb652068",
+      "name": "Unsplash MiniMalistc Collection (16).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (16).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 417.91,
+      "hash": "8f98fb6520687497a952fca0609bbdcff2691731153f875fc53232a3c214a20f",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "861c610c4425",
+      "name": "Unsplash MiniMalistc Collection (17).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (17).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 594.22,
+      "hash": "861c610c442537925aeb9fb69287e6cb736efaaca76f9f813b0a1add90623651",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "fe173430e9ca",
+      "name": "Unsplash MiniMalistc Collection (18).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (18).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 537.3,
+      "hash": "fe173430e9ca034347b2f1a33e2036ac48603a7d3d34c801d7b186314d11cfdb",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "1664c0188b38",
+      "name": "Unsplash MiniMalistc Collection (19).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (19).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 58.23,
+      "hash": "1664c0188b38e5aacf868b31393fae9f23dcc289103006d638044050765fc1f7",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "103e13fe0614",
+      "name": "Unsplash MiniMalistc Collection (20).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (20).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 63.77,
+      "hash": "103e13fe0614e86ade62bb478293035b5e74d13b78118f5abb8a29a76f172402",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "26bb08e46563",
+      "name": "Unsplash MiniMalistc Collection (21).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (21).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 358.45,
+      "hash": "26bb08e465630e2ef2aa618f230e28e93651112f0c1616b86fe9122c29bcb106",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "8c4ae876eccd",
+      "name": "Unsplash MiniMalistc Collection (22).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (22).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 518.27,
+      "hash": "8c4ae876eccdf33beb4fa6675c3eaaa6249fb3d91d53198f7651ba4a23ad3d1b",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "eaf32e1de898",
+      "name": "Unsplash MiniMalistc Collection (23).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (23).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 2135.91,
+      "hash": "eaf32e1de89872e8083e1c9a29c03721a6f0356f5e8ee01436c706ad76df8b0c",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "5c138661e805",
+      "name": "Unsplash MiniMalistc Collection (24).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (24).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 117.83,
+      "hash": "5c138661e80536e228c988ff9bae2b31ca1c657f14e9166aecce7bb74a88049c",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "177025fe7646",
+      "name": "Unsplash MiniMalistc Collection (25).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (25).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 70.53,
+      "hash": "177025fe7646ab2e979e9da3a3b69586f5ca2ff0b5db816db901b92b8b128900",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "e2873890d9e3",
+      "name": "Unsplash MiniMalistc Collection (26).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (26).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 365.16,
+      "hash": "e2873890d9e37c63b1f40be4a0f424640b84d1e48176ec022ae214fac821aaaa",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "578fea1f816c",
+      "name": "Unsplash MiniMalistc Collection (27).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (27).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 348.2,
+      "hash": "578fea1f816c2d3e33dd2e32307d2287dac2ea50ef4555c62c677aa1119eb673",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "1e2f752bb8a9",
+      "name": "Unsplash MiniMalistc Collection (28).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (28).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 224.86,
+      "hash": "1e2f752bb8a9daeb99a2a17c8f8c4b3486d437fea4a19f4c601b50aef45663d2",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "57e85d8bf621",
+      "name": "Unsplash MiniMalistc Collection (29).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (29).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 142.21,
+      "hash": "57e85d8bf621115f8e93a1bd52ed3af6c6fc63a7bf0cbb4824b7cc45277d80d8",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "186be071e6d2",
+      "name": "Unsplash MiniMalistc Collection (30).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (30).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 109.81,
+      "hash": "186be071e6d282a5df866f936651f7a811355916dacb907c0035174b1f08136d",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "ac3b18397054",
+      "name": "Unsplash MiniMalistc Collection (31).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (31).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 292.81,
+      "hash": "ac3b18397054581463f2f4e7696c31c02b7f41325d39a214bd07c08ad0758e43",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "287d9820bd36",
+      "name": "Unsplash MiniMalistc Collection (32).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (32).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 64.75,
+      "hash": "287d9820bd367fd217a48d1eee95d2253601e71db625851adcf345c2f08158bb",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "8bb7019720a5",
+      "name": "Unsplash MiniMalistc Collection (33).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (33).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 522.08,
+      "hash": "8bb7019720a512bd8a15e4a42c7e8e4851a3084aab478e4743cbc340028fef83",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "63982fb4e21d",
+      "name": "Unsplash MiniMalistc Collection (34).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (34).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 227.37,
+      "hash": "63982fb4e21d146247c43f831a6b7f34a9f4b20ded617e021b3faf8240c45686",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "934058464f67",
+      "name": "Unsplash MiniMalistc Collection (35).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (35).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 137.9,
+      "hash": "934058464f676e799a40c556b328a4f98636a7608faecb24c6cd12d0c274d282",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "914f12b3351e",
+      "name": "Unsplash MiniMalistc Collection (36).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (36).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 103.02,
+      "hash": "914f12b3351e740f68b9c425e84b97db0ba64ddb612d5588527fb2a774cc0773",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "8f46d1f1bc2a",
+      "name": "Unsplash MiniMalistc Collection (37).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (37).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 113.19,
+      "hash": "8f46d1f1bc2ad965db21e20f03404753d3567a6a26db7c3f1c96b8a81b18dc26",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "992b5762c384",
+      "name": "Unsplash MiniMalistc Collection (38).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (38).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 83.85,
+      "hash": "992b5762c384a87ac4fea1fc11b4e65acad2690dee3e45a40b07d66a2272f54d",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "55a467c8e569",
+      "name": "Unsplash MiniMalistc Collection (39).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (39).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 80.63,
+      "hash": "55a467c8e569362189e48721870371df50c906d16eb02a884ce7148cf825a7c3",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "7f756d51494c",
+      "name": "Unsplash MiniMalistc Collection (40).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (40).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 251.14,
+      "hash": "7f756d51494c6426696b78c48217b5f7e9b40c58ef99cfea13398c0b185f5ece",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "031b45c7ee5d",
+      "name": "Unsplash MiniMalistc Collection (41).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (41).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 365.15,
+      "hash": "031b45c7ee5d54eb12422dedc567d93737c00bcef1ea2743489a5d727371043b",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "d928d13a7754",
+      "name": "Unsplash MiniMalistc Collection (42).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (42).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 483.76,
+      "hash": "d928d13a7754b175353ff1b5bd0c3d8eefa00e31d9dc85ba648c61fd7bc513a2",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "c0635cd8f6ee",
+      "name": "Unsplash MiniMalistc Collection (43).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (43).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 322.55,
+      "hash": "c0635cd8f6ee6e3cd630fe01a5f3e49429202a503630e4eeedac3a6cd05c143f",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "e29c279bffae",
+      "name": "Unsplash MiniMalistc Collection (44).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (44).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 452.39,
+      "hash": "e29c279bffae0642920e7a7e7729920731d9b32548e60b31bebbcebe1101d8cb",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "3690926ed1a8",
+      "name": "Unsplash MiniMalistc Collection (45).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (45).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 1266.83,
+      "hash": "3690926ed1a84cc989c1e74f257cc6c2cf62ed3d1554a5faefbc8c305c571164",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "eb5146ba04ac",
+      "name": "Unsplash MiniMalistc Collection (46).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (46).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 230.6,
+      "hash": "eb5146ba04ac459e7e1e996a5c4fbebafe8489f555937045c93881bada826327",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "3f35edfae5d2",
+      "name": "Unsplash MiniMalistc Collection (47).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (47).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 864.91,
+      "hash": "3f35edfae5d2787da62ef049a2254244763358c4f7b82b311c25d22da0668149",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "520c4527866b",
+      "name": "Unsplash MiniMalistc Collection (48).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (48).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 208.84,
+      "hash": "520c4527866b1d9b7dd445c614b13877a50f7ef0fb3c5f31e02c202973bbadba",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "ae486f157c63",
+      "name": "Unsplash MiniMalistc Collection (49).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (49).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 588.24,
+      "hash": "ae486f157c63fa47e13a821e85b08020e333733dbca6549c7e69e08780f7932b",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
+      }
+    },
+    {
+      "id": "867eae9c4f27",
+      "name": "Unsplash MiniMalistc Collection (50).jpg",
+      "src": "images/Unsplash MiniMalistc Collection/Unsplash MiniMalistc Collection (50).jpg",
+      "folder": "Unsplash MiniMalistc Collection",
+      "ext": "jpg",
+      "width": 0,
+      "height": 0,
+      "aspect_ratio": 0,
+      "dpi": "72",
+      "bit_depth": "8",
+      "kb": 261.27,
+      "hash": "867eae9c4f2719879dc688638747975b99464d0b3a5888a0f3d607b38db9c7a6",
+      "dates": {
+        "added": "2026-01-13",
+        "updated": "2026-01-13"
       }
     },
     {
