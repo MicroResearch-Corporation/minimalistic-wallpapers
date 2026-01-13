@@ -1,6 +1,6 @@
 # Minimalistic Wallpapers
 [![images](https://custom-icon-badges.demolab.com/github/directory-file-count/Pro-Bandey/Minimalistic-Wallpapers/images?label=images&logo=image)](https://github.com/Pro-Bandey/Minimalistic-Wallpapers/tree/main/images)
-[![license](https://custom-icon-badges.demolab.com/github/license/Pro-Bandey/custom-icon-badges?logo=file-badge&logoColor=white&label=code+license&color=success)](https://github.com/Pro-Bandey/Minimalistic-Wallpapers/blob/main/LICENSE)
+[![license](https://custom-icon-badges.demolab.com/github/license/Pro-Bandey/custom-icon-badges?logo=file-badge&logoColor=white&label=code+license&color=success)](https://github.com/Pro-Bandey/minimalistic-wallpapers/blob/main/LICENSE)
 [![discord](https://custom-icon-badges.demolab.com/discord/819650821314052106?color=7289DA&logo=comments&label=discord&logoColor=white)](https://discord.gg/fPrdqh3Zfu)
 
 This is my collection of minimalistic, flat art, and colorful, digital nature wallpapers.
@@ -12,31 +12,8 @@ This is my collection of minimalistic, flat art, and colorful, digital nature wa
 To view a gallery of all 300+ wallpapers, [click here](https://minimalistic-wallpaper.demolab.com/)!
 -->
 
-[![screenshot](https://user-images.githubusercontent.com/20955511/186479660-475532e8-427d-4df1-a19d-7f94090805b1.png)](https://minimalistic-wallpaper.demolab.com/)
+[![screenshot](https://iili.io/fjs7ln9.png))
 
-## API
-
-The website also includes a random wallpaper API, so you can request random wallpapers from the collection using a web request.
-
-To use the API, simply make a request to:
-
-```md
-https://minimalistic-wallpaper.demolab.com/?random
-```
-
-To get multiple random images at once, it is recommended to change the URL slightly to avoid caching. For example,
-
-```md
-https://minimalistic-wallpaper.demolab.com/?random=1
-https://minimalistic-wallpaper.demolab.com/?random=2
-https://minimalistic-wallpaper.demolab.com/?random=3
-```
-
-This API can be used for setting daily wallpapers on a mobile device by combining it with an app such as IFTTT.
-
-> **Note**
-> By default, the API will fetch the image from GitHub and return it as content if it is smaller than 4.5MB.
-> To force the API to redirect to the image on GitHub instead, add `&redirect=1` to the end of the URL.
 
 ## Contributing
 
