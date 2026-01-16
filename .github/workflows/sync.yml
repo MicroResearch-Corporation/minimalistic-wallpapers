@@ -19,11 +19,19 @@ jobs:
         with:
           fetch-depth: 0 # Required for git log history
 
+      # NEW STEP: Fetch the previous metadata file from the 'output' branch
+      - name: Fetch previous metadata
+        id: fetch-prev
+        continue-on-error: true
+        run: |
+          git fetch origin output:output || echo "Output branch not found, skipping fetch."
+          # Try to read the file from the output branch and save it to root
+          git show output:images-meta.json > prev-images-meta.json || echo "{}" > prev-images-meta.json
+
       - name: Install tools
         run: |
           sudo apt-get update
           sudo apt-get install -y imagemagick
-          # npm install image-size <-- Removed, not needed anymore
 
       - name: Generate metadata
         run: |
@@ -35,7 +43,25 @@ jobs:
 
           const ROOT = "images";
           const OUT = "images-meta.json";
+          const PREV_FILE = "prev-images-meta.json";
           const allowed = /\.(png|jpe?g|webp|bmp|tiff|gif|svg)$/i;
+
+          // 1. Load Previous Metadata to preserve IDs and avoid expensive recalc
+          let previousData = new Map();
+          if (fs.existsSync(PREV_FILE)) {
+            try {
+              const content = fs.readFileSync(PREV_FILE, "utf8");
+              if (content.trim()) {
+                const json = JSON.parse(content);
+                if (json.images && Array.isArray(json.images)) {
+                  // Map by 'src' for easy lookup
+                  json.images.forEach(img => previousData.set(img.src, img));
+                }
+              }
+            } catch (err) {
+              console.log("Warning: Could not parse previous metadata. Rebuilding all.");
+            }
+          }
 
           if (!fs.existsSync(ROOT)) {
             console.error(`Error: Directory "${ROOT}" not found.`);
@@ -65,21 +91,33 @@ jobs:
           const hashes = {};
           const images = [];
 
+          console.log(`Processing ${files.length} files...`);
+
           for (const file of files) {
             const buf = fs.readFileSync(file);
             const hash = crypto.createHash("sha256").update(buf).digest("hex");
+            const src = file.replace(/\\/g, "/");
             
-            // Width, Height, Aspect Ratio logic removed
+            // Check if this file existed previously
+            const prevEntry = previousData.get(src);
             
+            // LOGIC: If path exists AND content hash is identical, reuse old data.
+            // This prevents generating a new ID and skips slow Git/ImageMagick calls.
+            if (prevEntry && prevEntry.hash === hash) {
+              hashes[hash] = (hashes[hash] || 0) + 1;
+              images.push(prevEntry);
+              continue; // Skip to next file
+            }
+
+            // --- If we are here, it's a new file OR the content changed ---
+
             const stat = fs.statSync(file);
             const ext = path.extname(file).slice(1).toLowerCase();
-            
             const relativePath = path.relative(ROOT, path.dirname(file));
             const folder = relativePath === "" ? "root" : relativePath.replace(/\\/g, "/");
 
             let dpi = "unknown", bit = "unknown";
             try {
-              // Using ImageMagick to get deeper metadata
               const r = execSync(`identify -format "%x|%z" "${file}"`)
                 .toString().trim().split("|");
               dpi = r[0] || "unknown"; 
@@ -87,55 +125,49 @@ jobs:
             } catch {}
 
             hashes[hash] = (hashes[hash] || 0) + 1;
+            
+            // Calculate Git dates
+            // If we have a prevEntry but hash changed, we keep 'added' date but update 'updated' date
+            const addedDate = (prevEntry && prevEntry.dates && prevEntry.dates.added) 
+                              ? prevEntry.dates.added 
+                              : gitDate(file, true);
 
             images.push({
               id: hash.slice(0, 12),
               name: path.basename(file),
-              src: file.replace(/\\/g, "/"),
+              src: src,
               folder,
               ext,
-              // width, height, aspect_ratio removed here
               dpi,
               bit_depth: bit,
               kb: +(stat.size / 1024).toFixed(2),
               hash,
               dates: {
-                added: gitDate(file, true),
+                added: addedDate,
                 updated: gitDate(file)
               }
             });
           }
 
           const duplicates = Object.values(hashes).filter(v => v > 1).length;
+          const newTotal = images.length;
 
-          // --- Custom JSON Formatting Logic ---
-          
           const headerData = {
             version: 1,
             generated_at: new Date().toISOString(),
-            total: images.length,
+            total: newTotal,
             duplicates
           };
 
-          // 1. Stringify the header normally (pretty print)
           let jsonOutput = JSON.stringify(headerData, null, 2);
-          
-          // 2. Remove the last closing brace '}' to append the array manually
           jsonOutput = jsonOutput.substring(0, jsonOutput.lastIndexOf("}"));
-
-          // 3. Create the images array string where each object is 1 line
-          //    We indent by 4 spaces to match the visual hierarchy
           const imageLines = images.map(img => `    ${JSON.stringify(img)}`);
-          
-          // 4. Join lines with commas and wrap in array brackets
           const imagesString = `,\n  "images": [\n${imageLines.join(",\n")}\n  ]\n}`;
-          
-          // 5. Combine header and images
           const finalContent = jsonOutput + imagesString;
 
           fs.writeFileSync(OUT, finalContent);
           
-          console.log(`Successfully processed ${images.length} images.`);
+          console.log(`Processed ${newTotal} images.`);
           EOF
 
       - name: Deploy to Output Branch
@@ -144,6 +176,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
+          # We need to fetch/check output branch again to commit changes
           git fetch origin
           if git show-ref --verify --quiet refs/remotes/origin/output; then
             git checkout -f output
