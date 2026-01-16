@@ -12,7 +12,7 @@ This is my collection of minimalistic, flat art, and colorful, digital nature wa
 To view a gallery of all 300+ wallpapers, [click here](https://minimalistic-wallpaper.demolab.com/)!
 -->
 
-[![screenshot](https://iili.io/fjs7ln9.png))
+![screenshot](https://iili.io/fjs7ln9.png))
 
 
 ## Contributing
