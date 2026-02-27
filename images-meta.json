@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-02-27T07:56:30.130Z",
-  "total": 605,
+  "generated_at": "2026-02-27T07:59:58.802Z",
+  "total": 608,
   "duplicates": 1
 ,
   "images": [
@@ -374,6 +374,9 @@
     {"id":"a3ae0ef71ccf","name":"close-up_of_a_door.jpg","src":"images/minimal/close-up_of_a_door.jpg","folder":"minimal","ext":"jpg","dpi":"72","bit_depth":"8","kb":52.84,"hash":"a3ae0ef71ccf895461f2734557c1b1241450f802a5f03fe6ddfb74d3370965b7","dates":{"added":"2026-02-27","updated":"2026-02-27"}},
     {"id":"76fffec7444b","name":"donut_with_sprinkles_on_top.jpg","src":"images/minimal/donut_with_sprinkles_on_top.jpg","folder":"minimal","ext":"jpg","dpi":"28","bit_depth":"8","kb":89.66,"hash":"76fffec7444b280ac6f215d7ae7288ec5ba575d62534de27ab7eee9edca563c0","dates":{"added":"2026-02-27","updated":"2026-02-27"}},
     {"id":"9e13031e0c0c","name":"flower_on_a_dark_background.png","src":"images/minimal/flower_on_a_dark_background.png","folder":"minimal","ext":"png","dpi":"118.10999999999999943","bit_depth":"8","kb":352.2,"hash":"9e13031e0c0ca127cb5a2a6b0c5415eb4920c8df87c3315a318bc5ddbad10b8f","dates":{"added":"2026-02-27","updated":"2026-02-27"}},
+    {"id":"babe96c3bb98","name":"landscapes-3840x2160-red and soft.png","src":"images/minimal/landscapes-3840x2160-red and soft.png","folder":"minimal","ext":"png","dpi":"72","bit_depth":"8","kb":886.4,"hash":"babe96c3bb984ef1463372edb62ea48d94109828cbe0e0914a7be84433cb44a4","dates":{"added":"2026-02-27","updated":"2026-02-27"}},
+    {"id":"aabfc7c6482c","name":"landscapes-3840x2160-v0-3q5hlyhf104g1.png","src":"images/minimal/landscapes-3840x2160-v0-3q5hlyhf104g1.png","folder":"minimal","ext":"png","dpi":"72","bit_depth":"8","kb":103.1,"hash":"aabfc7c6482c3205330b6097d306dfeda56ac190c96c5ee2849bcc4fa1970188","dates":{"added":"2026-02-27","updated":"2026-02-27"}},
+    {"id":"e53c7ebad53e","name":"landscapes-3840x2160.jpeg","src":"images/minimal/landscapes-3840x2160.jpeg","folder":"minimal","ext":"jpeg","dpi":"72","bit_depth":"8","kb":799.87,"hash":"e53c7ebad53e18867d6bea959f43213fd903ec4d2b6d8c87edc762b817c5f81f","dates":{"added":"2026-02-27","updated":"2026-02-27"}},
     {"id":"1de74b2595bc","name":"moon_and_clouds_in_the_sky.jpg","src":"images/minimal/moon_and_clouds_in_the_sky.jpg","folder":"minimal","ext":"jpg","dpi":"72","bit_depth":"8","kb":117.81,"hash":"1de74b2595bc8c5693b6fde8eb046def03c451917805ecb9426f343f9a3c9776","dates":{"added":"2026-02-27","updated":"2026-02-27"}},
     {"id":"8b2d0588d2e8","name":"mountain_with_trees_and_moon.jpg","src":"images/minimal/mountain_with_trees_and_moon.jpg","folder":"minimal","ext":"jpg","dpi":"72","bit_depth":"8","kb":730.64,"hash":"8b2d0588d2e81a52b76e5035b1508fe68daa6bffd55ad730489baf3e9b30b35c","dates":{"added":"2026-02-27","updated":"2026-02-27"}},
     {"id":"e8cfecb6f241","name":"screenshot_of_a_computer_generated_image_of_planets.png","src":"images/minimal/screenshot_of_a_computer_generated_image_of_planets.png","folder":"minimal","ext":"png","dpi":"72","bit_depth":"8","kb":412.2,"hash":"e8cfecb6f241b99fbd1cd844f12d0426c72da996f76c349973d1a8ce835c1796","dates":{"added":"2026-02-27","updated":"2026-02-27"}},
